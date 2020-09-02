@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hospital
+comment1.params=medico
+comment1.target=void\ addMedico(Medico)
+comment2.params=paciente
+comment2.target=void\ addPaciente(Paciente)
+comment3.params=
+comment3.target=double\ taxaOcupacao()
+comment4.params=
+comment4.target=Medico[]\ retornaMedicos()
+comment5.params=
+comment5.target=Paciente[]\ retornaPacientes()
+numComments=6

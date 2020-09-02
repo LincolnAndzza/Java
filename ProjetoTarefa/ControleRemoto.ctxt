@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ControleRemoto
+comment1.params=tv
+comment1.target=ControleRemoto(Televisao)
+comment2.params=
+comment2.target=int\ aumentarVolume()
+comment3.params=
+comment3.target=int\ diminuirVolume()
+comment4.params=
+comment4.target=int\ aumentarCanal()
+comment5.params=
+comment5.target=int\ diminuirCanal()
+comment6.params=canal
+comment6.target=void\ trocarCanalIndicado(int)
+comment7.params=
+comment7.target=Televisao\ consultarCanalEVolume()
+numComments=8

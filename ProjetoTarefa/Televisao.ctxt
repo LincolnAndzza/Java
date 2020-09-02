@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Televisao
+comment1.params=volume
+comment1.target=void\ setVolume(int)
+comment2.params=canal
+comment2.target=void\ setCanal(int)
+comment3.params=
+comment3.target=int\ getVolume()
+comment4.params=
+comment4.target=int\ getCanal()
+numComments=5

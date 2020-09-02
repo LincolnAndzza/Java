@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Moto
+comment1.params=args
+comment1.target=void\ checar(java.lang.String[])
+comment2.params=
+comment2.target=void\ desligar()
+comment3.params=quantidade
+comment3.target=void\ acelerando(double)
+comment4.params=
+comment4.target=int\ pegaMarcha()
+numComments=5

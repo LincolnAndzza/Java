@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Paciente
+comment1.params=nomePaciente
+comment1.target=void\ colocarNome(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ mostrarNome()
+numComments=3
