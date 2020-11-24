@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Correntista
+comment1.params=id\ nome\ cpf\ transferencias
+comment1.target=Correntista(int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=id
+comment3.target=void\ setId(int)
+comment4.params=
+comment4.target=int\ getTransferencia()
+comment5.params=transferencia
+comment5.target=void\ setTransferencia(int)
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pagamento
+comment1.params=cartao
+comment1.target=Pagamento(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCartao()
+comment3.params=cartao
+comment3.target=void\ setCartao(java.lang.String)
+numComments=4

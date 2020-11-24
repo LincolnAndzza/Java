@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Agencia
+comment1.params=digito\ local\ nome\ cartao
+comment1.target=Agencia(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDigito()
+comment5.params=digito
+comment5.target=void\ setDigito(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getCartao()
+comment7.params=cartao
+comment7.target=void\ setCartao(java.lang.String)
+numComments=8
