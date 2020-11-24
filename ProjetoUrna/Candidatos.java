@@ -3,13 +3,13 @@ public class Candidatos extends eleitores {
     private int votos = 0;
     private int numCandidatos = -1;
     
-    public Candidatos (String nome, String rg, int zona, int secao, int funcao, int numeroCandidato) {
-        this.setNome(nome);
-        this.setRg(rg);
-        this.setZona(zona);
-        this.setsecao(secao);
-        this.setFuncao(funcao);
-        this.setnumCandidato(numCandidato);
+    public Candidatos (String nome, String rg, int zona, int secao, int funcao, int numCandidatos) {
+        this.getNome(nome);
+        this.getRg(rg);
+        this.getZona(zona);
+        this.getsecao(secao);
+        this.getFuncao(funcao);
+        this.getnumCandidato(numCandidato);
     }
     
     public int getFuncao() {

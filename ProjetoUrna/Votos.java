@@ -4,8 +4,7 @@ public class  Votos {
     private Candidatos prefeito;
     private Eleitores eleitores;
 
-    public Votos (Candidatos vereadores, Candidatos prefeito, 
-    Eleitores eleitores) {
+    public Votos (Candidatos vereadores, Candidatos prefeito, Eleitores eleitores) {
         
         this.setVereadores(vereadores);
         this.setPrefeito(prefeito);
