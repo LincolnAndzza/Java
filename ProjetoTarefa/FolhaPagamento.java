@@ -20,13 +20,12 @@ public class FolhaPagamento {
   public double descontoInss(){
     if(salarioBruto() <= 1000){
        this.descontoInss = this.salarioBruto() * 8.5/100;
-    }
-    else if(salarioBruto() > 1000){
+    }else if(salarioBruto() > 1000){
        this.Inss = salarioBruto * 9/100;
          return descontoInss;
-    }
+  }
    
-   public double descontoIr(){
+  public double descontoIr(){
     if(salarioBruto() <= 500){
        this.descontoIr = 0;
     }
@@ -38,7 +37,7 @@ public class FolhaPagamento {
         return descontoIr;
     } 
   
-  public double salarioLiquido(){
+  public void salarioLiquido(){
       return salarioBruto() - descontoInss() - descontoIr();
   }
 }

@@ -1,14 +1,16 @@
-public class Conta
+public abstract class Conta
 {
     double saldo;
     Cliente cliente;
     
+    //Esse é o Construtor
+    /*
     public Conta(double saldoInicial, Cliente cliente){
 
         this.saldo = saldoInicial;
         this.cliente = cliente;
     }
-    
+    */
     public void saque(double saq){
         
         this.saldo = this.saldo - saq;    

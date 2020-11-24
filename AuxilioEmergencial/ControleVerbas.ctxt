@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ControleVerbas
+comment1.params=
+comment1.target=ControleVerbas()
+comment2.params=saldoTotal
+comment2.target=ControleVerbas(double)
+comment3.params=pessoa
+comment3.target=boolean\ Pagamento(PessoaBeneficiario)
+comment4.params=nome\ valor
+comment4.target=void\ avisarPagamento(java.lang.String,\ double)
+numComments=5

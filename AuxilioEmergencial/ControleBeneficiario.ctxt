@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ControleBeneficiario
+comment1.params=
+comment1.target=ControleBeneficiario()
+comment2.params=grandeza\ saldoNoBanco
+comment2.target=ControleBeneficiario(int,\ double)
+comment3.params=utilizador
+comment3.target=boolean\ verificarUtilizador(PessoaBeneficiario)
+comment4.params=
+comment4.target=int\ executarPagamentos()
+numComments=5

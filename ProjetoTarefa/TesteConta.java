@@ -10,7 +10,7 @@ public class TesteConta
         Cliente cliente2 = new Cliente();     
         cliente2.nome = "Kain Anjo";
         
-        Conta c = new Conta(4000.0, cliente1);
+        Conta c = new Conta(4000.0. cliente1);
         System.out.println(c.cliente.nome);
         
         c.mostrarSaldo();
