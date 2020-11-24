@@ -26,7 +26,7 @@ public class eleitores {
 	}
 	
 	public boolean setRg(String rg) {
-		if (rg.length() < 6 || rg.length() > 9) {
+		if (rg.length() < 7 || rg.length() > 10) {
 			return false;
 		}
 		

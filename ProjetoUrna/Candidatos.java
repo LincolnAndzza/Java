@@ -17,7 +17,7 @@ public class Candidatos extends eleitores {
     }
 
     public boolean setFuncao(int funcao) {
-        if (funcao == 1 || funcao == 4) {
+        if (funcao == 1 || funcao == 5) {
             this.funcao = funcao;
             
             return true;
