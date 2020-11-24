@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ContaCorrente
+comment1.params=
+comment1.target=ContaCorrente()
+comment2.params=saldoInicial\ nome
+comment2.target=ContaCorrente(double,\ java.lang.String)
+comment3.params=valor
+comment3.target=void\ deposito(double)
+comment4.params=
+comment4.target=double\ calculoJuros()
+comment5.params=nomeAgencia
+comment5.target=void\ setAgencia(java.lang.String)
+comment6.params=nomeCorrentista
+comment6.target=void\ setCorrentista(java.lang.String)
+comment7.params=valor
+comment7.target=double\ impostoRenda(double)
+comment8.params=valor
+comment8.target=double\ cpmf(double)
+comment9.params=valor
+comment9.target=double\ iof(double)
+numComments=10
